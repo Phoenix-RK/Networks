@@ -1,2 +1,2 @@
 # Networks
-This repository contains codes regarding some networking protocols
+This repository contains codes regarding some networking concepts
